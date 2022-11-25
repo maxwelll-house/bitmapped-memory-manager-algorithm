@@ -1,10 +1,15 @@
 # Bitmapped-memory-manager-algorithm
 
-//Memory Allocation Pattern
+Memory Allocation Pattern
+
 //11111111 11111111 11111111
+
 //11111110 11111111 11111111
+
 //11111100 11111111 11111111
+
 //if all bits for 1st section become 0 proceed to next section
+
 
 //...
 //00000000 11111111 11111111
